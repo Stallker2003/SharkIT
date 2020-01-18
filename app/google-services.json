@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546864729064",
+    "firebase_url": "https://sharkit.firebaseio.com",
+    "project_id": "sharkit",
+    "storage_bucket": "sharkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546864729064:android:06cc443a64a42dc515725d",
+        "android_client_info": {
+          "package_name": "app.sharkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546864729064-6h7uke6v5oomi5q7d60bfrf5kaef9dmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.sharkit",
+            "certificate_hash": "492805e65dddf719a78a6ad8c8404d7fa6fa419d"
+          }
+        },
+        {
+          "client_id": "546864729064-r0bjlojf0hlr856ab814s4st6nigtkpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3oSF-3u0OUmzrnS37fE8AH5vpJ6mbeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546864729064-r0bjlojf0hlr856ab814s4st6nigtkpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
